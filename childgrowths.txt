@@ -1,0 +1,26 @@
+21
+Kana	30	35	30	40	45	45	25	25	Avatar
+Shigure	35	45	5	45	35	25	35	25	Azura
+Dwyer	45	45	30	20	30	30	30	35	Jakob 
+Sophie	35	35	10	55	50	35	25	35	Silas
+Midori	45	35	5	55	35	50	30	20	Kaze
+Shiro	50	50	0	40	35	35	45	30	Ryoma
+Kiragi	45	40	0	45	50	45	40	15	Takumi
+Asugi	40	45	50	55	45	50	30	20	Saizo
+Selkie	35	30	15	35	55	60	30	50	Kaden
+Hisame	50	40	0	40	40	25	30	20	Hinata
+Mitama	45	40	35	45	50	50	30	20	Azama
+Caeldori 55	35	15	40	40	45	35	20	Subaki
+Rhajat	40	15	60	10	50	30	25	35	Hayato
+Siegbert 40	45	5	45	45	45	35	20	Xander
+Forrest	55	15	65	20	35	25	25	55	Leo
+Ignatius 40	50	0	40	30	55	45	35	Benny
+Velouria 50	50	0	40	40	35	45	30	Keaton
+Percy	30	30	5	45	40	75	55	15	Arthur
+Ophelia	45	15	45	40	45	65	20	30	Odin
+Soleil	25	60	0	35	35	45	35	40	Laslow
+Nina	30	45	30	35	40	50	25	45	Niles
+
+
+
+

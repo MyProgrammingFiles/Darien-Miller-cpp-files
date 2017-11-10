@@ -1,0 +1,69 @@
+34
+Nohr_Noble	
+15	10	15	5	15	5	5	15
+Paladin		
+10	15	0	10	10	15	10	10
+Great_Knight	
+20	20	0	10	5	5	20	0
+General		
+25	20	0	15	0	10	20	5
+Berserker	
+30	25	0	15	15	0	0	0
+Hero		
+20	15	0	20	15	5	10	0
+Bow_Knight	
+10	10	0	15	15	10	0	10
+Adventurer	
+0	5	15	5	20	0	0	20
+Wyvern_Lord	
+10	15	0	15	10	5	20	0
+Malig_Knight	
+0	15	15	10	5	0	10	15
+Sorcerer	
+0	0	25	0	10	0	5	15
+Dark_Knight	
+15	20	10	5	5	5	15	5
+Strategist	
+0	0	15	5	10	20	0	15
+Maid/Butler
+0	10	10	15	15	10	5	10
+Wolfssegner	
+20	20	0	5	15	5	10	0
+Hoshido_Noble	
+15	15	10	10	10	10	15	0
+Swordmaster	
+10	10	5	15	20	15	0	10
+Master_of_Arms	
+20	15	0	10	10	10	10	0
+Oni_Chieftain	
+10	20	15	0	10	0	20	5
+Blacksmith	
+20	15	0	15	10	5	15	0
+Spear_Master	
+15	15	0	15	15	5	10	5
+Basara		
+20	10	10	10	10	15	5	10
+Onmyoji		
+0	0	20	10	15	0	0	15
+Great_Master	
+10	15	5	5	15	15	10	10
+Priestess	
+10	10	10	5	15	15	0	20
+Falcon_Knight	
+0	10	10	10	15	20	0	20
+Kinshi_Knight	
+0	5	0	15	15	15	0	15
+Sniper	
+10	15	0	20	15	5	10	0
+Master_Ninja	
+5	5	0	20	20	0	5	20
+Mechanist	
+10	10	0	15	10	5	5	15
+Merchant	
+20	20	0	10	5	15	10	5
+Nine-Tails	
+10	10	0	15	20	10	0	20
+Songstress	
+0	10	0	20	20	20	0	0
+Villager
+10	10	0	10	10	20	10	0
